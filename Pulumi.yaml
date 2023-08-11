@@ -1,0 +1,6 @@
+name: test-dev
+description: Just a test
+runtime:
+  name: yaml
+  options:
+    compiler: cue export
